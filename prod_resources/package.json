@@ -1,0 +1,8 @@
+{
+  "name": "Chat_app",
+  "productName": "Chat_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js/main/index.js",
+  "author": "Kenji Ishii"
+}
