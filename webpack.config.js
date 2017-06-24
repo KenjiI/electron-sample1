@@ -17,7 +17,11 @@ module.exports = {
       {
         test: /\.png$/,
         loader: "file-loader?name=./images/[name].[ext]",
-      }
+      },
+      {
+        test: /\.node$/,
+        loader: "node-loader"
+      },
     ]
   },
   entry: {
